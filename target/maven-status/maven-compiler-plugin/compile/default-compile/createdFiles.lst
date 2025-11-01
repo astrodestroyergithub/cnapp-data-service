@@ -1,0 +1,7 @@
+com/cnapp/cnappdataservice/config/GlobalCorsConfig.class
+com/cnapp/cnappdataservice/repository/BlogRepository.class
+com/cnapp/cnappdataservice/service/BlogService.class
+com/cnapp/cnappdataservice/controller/BlogController.class
+com/cnapp/cnappdataservice/config/WebConfig.class
+com/cnapp/cnappdataservice/entity/Blog.class
+com/cnapp/cnappdataservice/CnappdataserviceApplication.class

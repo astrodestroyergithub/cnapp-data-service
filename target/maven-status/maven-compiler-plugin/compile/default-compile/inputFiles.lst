@@ -1,0 +1,7 @@
+/Users/tamojitroy/Desktop/REPOSITORIES/cnappdataservice/src/main/java/com/cnapp/cnappdataservice/CnappdataserviceApplication.java
+/Users/tamojitroy/Desktop/REPOSITORIES/cnappdataservice/src/main/java/com/cnapp/cnappdataservice/config/GlobalCorsConfig.java
+/Users/tamojitroy/Desktop/REPOSITORIES/cnappdataservice/src/main/java/com/cnapp/cnappdataservice/config/WebConfig.java
+/Users/tamojitroy/Desktop/REPOSITORIES/cnappdataservice/src/main/java/com/cnapp/cnappdataservice/controller/BlogController.java
+/Users/tamojitroy/Desktop/REPOSITORIES/cnappdataservice/src/main/java/com/cnapp/cnappdataservice/entity/Blog.java
+/Users/tamojitroy/Desktop/REPOSITORIES/cnappdataservice/src/main/java/com/cnapp/cnappdataservice/repository/BlogRepository.java
+/Users/tamojitroy/Desktop/REPOSITORIES/cnappdataservice/src/main/java/com/cnapp/cnappdataservice/service/BlogService.java
